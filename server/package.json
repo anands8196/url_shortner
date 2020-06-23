@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js "
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.19",
+    "redis": "^3.0.2",
+    "shortid": "^2.2.15",
+    "valid-url": "^1.0.9"
+  }
+}
