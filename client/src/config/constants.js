@@ -1,4 +1,4 @@
 module.exports = {
-  apiUrl: "http://localhost:7000/api/",
-  baseUrl: "http://localhost:7000/api/item"
+  apiUrl: "anands-url-shortner-server.netlify.app/api/",
+  baseUrl: "anands-url-shortner-server.netlify.app/api/item"
 };
